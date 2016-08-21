@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://xenangdieselforklift.blogspot.com/' target='_blank'><img src='https://lh6.googleusercontent.com/-KX7nVueh36c/V7lEg1yLipI/AAAAAAAAANc/ON0Zwue09B0mAOP2xCZ_t91oHT07uRyBACL0B/w415-h550-no/1%2BXE%2BNANG%2B%2528185x260%2Bmm%2529%2BFINAL.png' width='500px'/><br/>chuyên cung cấp xe nâng hàng</a>. Động cơ ISUZU. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://xenangdieselforklift.blogspot.com/' target='_blank'><img src='https://lh6.googleusercontent.com/-KX7nVueh36c/V7lEg1yLipI/AAAAAAAAANc/ON0Zwue09B0mAOP2xCZ_t91oHT07uRyBACL0B/w415-h550-no/1%2BXE%2BNANG%2B%2528185x260%2Bmm%2529%2BFINAL.png' width='500px'/><br/>Chuyên Cung Cấp Xe Nâng Hàng</a>. Động cơ ISUZU. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
